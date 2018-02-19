@@ -72,7 +72,7 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
                     <connections>
-                        <outlet property="animelSoundLabel" destination="r0r-l6-j8Z" id="Aq1-wN-aK7"/>
+                        <outlet property="animalSoundLabel" destination="r0r-l6-j8Z" id="zpI-dj-t84"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
