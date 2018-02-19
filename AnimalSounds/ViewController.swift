@@ -20,6 +20,15 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
 
-
+    @IBOutlet weak var animelSoundLabel: UILabel!
+    
+    @IBAction func catButtonTapped(_ sender: Any) {
+    }
+    @IBAction func dogButtonTapped(_ sender: Any) {
+    }
+    @IBAction func cowButtonTapped(_ sender: Any) {
+    }
+    
+    
 }
 
